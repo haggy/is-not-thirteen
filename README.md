@@ -1,4 +1,4 @@
-![NOT 13](http://i.imgur.com/kJujcci.png "NOT 13)
+![NOT 13](http://i.imgur.com/kJujcci.png "NOT 13")
 
 
 This is the inverse off the popular [is-thirteen](https://github.com/jezen/is-thirteen) library. Though make no mistake,
