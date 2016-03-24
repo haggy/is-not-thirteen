@@ -8,7 +8,7 @@ on this side of the line we favor __non thirteen__ numbers and believe that 12 i
 ### Usage
 
 ```javascript
-var isThirteen = require('is-not-thirteen');
+var is = require('is-not-thirteen');
 
 // This adopts the DSL from the is-thirteen lib but
 // adds a "not" operation
