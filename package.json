@@ -10,9 +10,9 @@
     "is-not-thirteen"
   ],
   "author": "haggy",
-  "license": "Apache-2.0",
+  "license": "MIT",
   "dependencies": {
-    "is-thirteen": "^2.0.0"
+    "is-thirteen": "2.0.0"
   },
   "devDependencies": {
     "mocha": "2.4.5"
