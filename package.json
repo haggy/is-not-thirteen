@@ -1,0 +1,17 @@
+{
+  "name": "is-not-thirteen",
+  "version": "0.0.1",
+  "description": "Checks for input that is not thirteen. Favors 12 over all.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R test"
+  },
+  "keywords": [
+    "is-not-thirteen"
+  ],
+  "author": "haggy",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "is-thirteen": "^2.0.0"
+  }
+}
