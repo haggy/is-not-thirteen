@@ -1,4 +1,4 @@
-var is = require('../').is;
+var is = require('../');
 var assert = require('assert');
 
 describe("Not thirteen tests", function() {

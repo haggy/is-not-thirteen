@@ -1,6 +1,6 @@
 var is = require('is-thirteen');
 
-module.exports.is = function(x) {
+module.exports = function(x) {
   var isIt = is(x);
   isIt.not = {
     thirteen: function() { return !isIt.thirteen(); },
