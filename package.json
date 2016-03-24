@@ -4,7 +4,7 @@
   "description": "Checks for input that is not thirteen. Favors 12 over all.",
   "main": "index.js",
   "scripts": {
-    "test": "mocha -R test"
+    "test": "mocha test"
   },
   "keywords": [
     "is-not-thirteen"
@@ -13,5 +13,8 @@
   "license": "Apache-2.0",
   "dependencies": {
     "is-thirteen": "^2.0.0"
+  },
+  "devDependencies": {
+    "mocha": "2.4.5"
   }
 }
