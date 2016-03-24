@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Checks for input that is not thirteen. Favors 12 over all.",
   "main": "index.js",
+  "repository": "https://github.com/haggy/is-not-thirteen",
   "scripts": {
     "test": "mocha test"
   },
