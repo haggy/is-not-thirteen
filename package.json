@@ -13,7 +13,8 @@
   "author": "haggy",
   "license": "MIT",
   "dependencies": {
-    "is-thirteen": "2.0.0"
+    "is-thirteen": "2.0.0",
+    "react": "15.5.4"
   },
   "devDependencies": {
     "mocha": "2.4.5"
