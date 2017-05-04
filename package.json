@@ -1,6 +1,6 @@
 {
   "name": "is-not-thirteen",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Checks for input that is not thirteen. Favors 12 over all.",
   "main": "index.js",
   "repository": "https://github.com/haggy/is-not-thirteen",
